@@ -3,5 +3,5 @@ A bot for the platform... https://bitclout.com/u/alexander_haislip. This is the 
 
 Dependencies:
 
-Scrapy
+Scrapy,
 Selenium
