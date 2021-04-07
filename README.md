@@ -2,7 +2,7 @@
 
 
 # BitClout_Social_Bot
-World's first BitClout bot. Feel free to star and contribute.
+BitClouts first bot. Feel free to star and contribute.
 
 Dependencies:
 
