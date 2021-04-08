@@ -4,6 +4,13 @@
 # BitClout-Automation
 BitClouts first bot. Feel free to star and contribute.
 
+Dear reader,
+
+Things are going smooth as of now. I would watch the repo becuase there will be a lot of action with this in the near future!
+
+Best Regaurds,
+Alexander
+
 Dependencies:
 
 Scrapy,
