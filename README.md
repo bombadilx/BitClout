@@ -11,6 +11,9 @@ Things are going smooth as of now. I would watch the repo becuase there will be 
 Best Regaurds,
 Alexander
 
+
+
+
 Dependencies:
 
 Scrapy,
