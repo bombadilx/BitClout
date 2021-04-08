@@ -6,6 +6,8 @@ driver = webdriver.Chrome('./chromedriver')
 # navigation to BitClout.com
 driver.get("https://bitclout.com/")
 
+print('░ WELCOME TO BITCLOUT BOT!')
+
 # Asking the user for their private phrase to login to the account
 PRIVATE_PHRASE = input("░ What is your BitClout private phrase?: ")
 
@@ -22,4 +24,10 @@ load_account_button = driver.find_element_by_css_selector('button')
 load_account_button.click()
 
 print(driver.current_url)
+
+if driver.current_url != 'https://bitclout.com/log-in':
+    print("░ You are now logged in...")
+
+else:
+    print("░ There was an error logging into your account... Please check your private phrase and try again...")
 driver.close()
