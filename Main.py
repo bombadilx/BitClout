@@ -1,17 +1,17 @@
 import os
 
-from Login import login
-from AutoLike import like
-from AutoComment import comment
-from AutoReclout import reclout
-from AutoBUY import buy
-from AutoSELL import sell
-from UNDERVALUED_USER_ALERT import alert
+from Login import *
+from AutoLike import *
+from AutoComment import *
+from AutoReclout import *
+from AutoBUY import *
+from AutoSELL import *
+from UNDERVALUED_USER_ALERT import *
 
-dir = os.path.dirname(__file__)
-chrome_driver_path = dir + "\chromedriver.exe"
+directory = os.path.dirname(__file__)
+chrome_driver_path = directory + "\chromedriver.exe"
 
-driver = webdriver.Chrome(chrome_driver_path)
+driver = driver.Chrome(chrome_driver_path)
 
 """-------------
 
