@@ -2,3 +2,4 @@ Bin
 Lib
 .DS_Store
 .idea/
+pyvenv.cfg
