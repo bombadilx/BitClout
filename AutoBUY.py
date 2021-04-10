@@ -1,4 +1,4 @@
 
 
-def buy():
+def buy(driver):
     pass
