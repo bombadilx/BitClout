@@ -1,4 +1,4 @@
 
 
-def like():
+def like(driver):
     pass

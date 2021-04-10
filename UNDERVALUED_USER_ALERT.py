@@ -1,4 +1,4 @@
 
 
-def alert():
+def alert(driver):
     pass
