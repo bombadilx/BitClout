@@ -36,7 +36,7 @@ login(driver, time)
 
 if AutoLike == 'on':
     # TODO: Run like function
-    like(driver)
+    like(driver, time)
 else:
     print("░ AutoLike IS NOT ON.. SKIPPING...")
     pass
